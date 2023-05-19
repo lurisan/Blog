@@ -1,6 +1,6 @@
 # Events of My Life
 
-##### 17th June 2022
+### 17th June 2022
 
 June Meetup: Building For Everyone - Accessibility Campaign
 
@@ -12,7 +12,7 @@ June Meetup: Building For Everyone - Accessibility Campaign
 <br />
 <br />
 
-##### 7th May 2022
+### 7th May 2022
 
 Google Cloud Community Day Kolkata 2023
 
@@ -25,7 +25,7 @@ Google Cloud Community Day Kolkata 2023
 <br />
 
 
-##### 7th April 2022
+### 7th April 2022
 
 Code Vipassana Season 1 Finale with [Abirami Sukumaran](https://twitter.com/AbiramiSukumara)
 
@@ -37,7 +37,7 @@ Code Vipassana Season 1 Finale with [Abirami Sukumaran](https://twitter.com/Abir
 <br />
 <br />
 
-##### 4th March 2022
+### 4th March 2022
 
 International Women's Day Celebration with WTM and GDG Cloud Kolkata
 
@@ -49,21 +49,21 @@ International Women's Day Celebration with WTM and GDG Cloud Kolkata
 <br />
 <br />
 
-##### 25th December 2022
+### 25th December 2022
 
 Visited the Queen of Hillstations - Darjeeling
 
 <br />
 <br />
 
-##### 15th November 2022
+### 15th November 2022
 
 Happy Birthday to me
 
 <br />
 <br />
 
-##### October 2022
+### October 2022
 
 Chennai Visit
 
@@ -75,7 +75,7 @@ Chennai Visit
 <br />
 <br />
 
-##### 28th August 2022
+### 28th August 2022
 
 Google Cloud Community Day 2022 Day-2
 
@@ -87,7 +87,7 @@ Google Cloud Community Day 2022 Day-2
 <br />
 <br />
 
-##### 27th August 2022
+### 27th August 2022
 
 Google Cloud Community Day 2022 Day-1
 
@@ -98,7 +98,7 @@ Google Cloud Community Day 2022 Day-1
 <br />
 <br />
 
-##### 18th August 2022
+### 18th August 2022
 
 Excited to speak for Google Cloud Community Day 2022
 
@@ -112,7 +112,7 @@ Excited to speak for Google Cloud Community Day 2022
 <br />
 <br />
 
-##### 20th April 2022
+### 20th April 2022
 
 LFR based swarm cooking up, new project in place for next development and building
 
@@ -124,7 +124,7 @@ LFR based swarm cooking up, new project in place for next development and buildi
 <br />
 <br />
 
-##### 17th April 2022
+### 17th April 2022
 
 GDG event was a great success, got an opportunity to intrigue the minds of young developers and future engineers
 
@@ -135,7 +135,7 @@ GDG event was a great success, got an opportunity to intrigue the minds of young
 <br />
 <br />
 
-##### 12th April 2022
+### 12th April 2022
 
 As GDG event is nearing the date, hope everyone has rsvp-ed for the event and got their tickets booked
 
@@ -149,7 +149,7 @@ As GDG event is nearing the date, hope everyone has rsvp-ed for the event and go
 <br />
 <br />
 
-##### 5th April 2022
+### 5th April 2022
 
 Getting a chance to speak among eminent personalities
 
@@ -162,7 +162,7 @@ Getting a chance to speak among eminent personalities
 <br />
 <br />
 
-##### 22nd March 2022
+### 22nd March 2022
 
 V3-beta of portfolio website launched
 
@@ -173,7 +173,7 @@ V3-beta of portfolio website launched
 <br />
 <br />
 
-##### 7th March 2022
+### 7th March 2022
 
 Smart Bedroom automation in use, working perfectly as expected
 
@@ -185,7 +185,7 @@ Smart Bedroom automation in use, working perfectly as expected
 <br />
 <br />
 
-##### 31st January 2022
+### 31st January 2022
 
 Peregrine App Launched
 
@@ -195,7 +195,7 @@ Peregrine App Launched
 <br />
 <br />
 
-##### 24th October 2021
+### 24th October 2021
 
 Smart Bedroom automation with actual use case and used in the room
 
@@ -206,7 +206,7 @@ Smart Bedroom automation with actual use case and used in the room
 <br />
 <br />
 
-##### 17th October 2021
+### 17th October 2021
 
 V2 of portfolio website launched
 
@@ -217,7 +217,7 @@ V2 of portfolio website launched
 <br />
 <br />
 
-##### 2nd May 2021
+### 2nd May 2021
 
 Simple Producer Consumer based off Kafka using Docker and Springboot
 
@@ -232,7 +232,7 @@ Simple Producer Consumer based off Kafka using Docker and Springboot
 <br />
 <br />
 
-##### 29th January 2021
+### 29th January 2021
 
 Deployed a simple photo rich business website
 
@@ -245,7 +245,7 @@ Deployed a simple photo rich business website
 <br />
 <br />
 
-##### 10th December 2020
+### 10th December 2020
 
 Deployed a simple web app to calculate my monthly totals, feel free to use
 
@@ -258,7 +258,7 @@ Deployed a simple web app to calculate my monthly totals, feel free to use
 <br />
 <br />
 
-##### 3rd November 2020
+### 3rd November 2020
 
 Getting hands dirty on React and Hadoop
 
@@ -271,7 +271,7 @@ Getting hands dirty on React and Hadoop
 <br />
 <br />
 
-##### 20th June 2020
+### 20th June 2020
 
 Live Streaming "Robotics & AI : An Interdisciplinary Tale"
 
@@ -283,7 +283,7 @@ Live Streaming "Robotics & AI : An Interdisciplinary Tale"
 <br />
 <br />
 
-##### 19th June 2020
+### 19th June 2020
 
 Talk on 20th June "Robotics & AI : An Interdisciplinary Tale"
 
@@ -295,7 +295,7 @@ Talk on 20th June "Robotics & AI : An Interdisciplinary Tale"
 <br />
 <br />
 
-##### 15th May 2020
+### 15th May 2020
 
 Something should be in the background
 
@@ -305,7 +305,7 @@ Something should be in the background
 <br />
 <br />
 
-##### 14th May 2020
+### 14th May 2020
 
 Too plain website
 
@@ -316,7 +316,7 @@ Too plain website
 <br />
 <br />
 
-##### 10th May 2020
+### 10th May 2020
 
 Ah, adding texts is a lot of effort
 
@@ -324,7 +324,7 @@ Ah, adding texts is a lot of effort
 <br />
 <br />
 
-##### 9th May 2020
+### 9th May 2020
 
 Shouldn't it be deployed somewhere?
 
@@ -332,7 +332,7 @@ Shouldn't it be deployed somewhere?
 <br />
 <br />
 
-##### 27th April 2020
+### 27th April 2020
 
 Great Day for building next elements
 
@@ -341,7 +341,7 @@ Great Day for building next elements
 <br />
 <br />
 
-##### 25th April 2020
+### 25th April 2020
 
 Long time after
 
@@ -349,6 +349,6 @@ Long time after
 <br />
 <br />
 
-##### 10th April 2020
+### 10th April 2020
 
 Thought of BRANDING myself
