@@ -1,5 +1,7 @@
 # Events of My Life
 
+## [Connect With Me](https://linktr.ee/lurisan)
+
 ### 17th June 2022
 
 June Meetup: Building For Everyone - Accessibility Campaign
