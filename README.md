@@ -9,7 +9,7 @@ June Meetup: Building For Everyone - Accessibility Campaign
 - June Meetup for GDGCK
 - Date : 17th June 2022
 - Venue : TBD
-- Event Details : YTR
+- Event Details : [June Meetup Building for Everyone Accessibility Campaign](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-june-meetup-building-for-everyone-accessibility-campaign/)
 
 <br />
 <br />
