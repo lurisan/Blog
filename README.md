@@ -32,24 +32,24 @@ Google Cloud Community Day Kolkata 2023
 <br />
 
 
-### 7th April 2022
+### 7th April 2023
 
 Code Vipassana Season 1 Finale with [Abirami Sukumaran](https://twitter.com/AbiramiSukumara)
 
 - Officially a Co-Organizer at GDG Cloud Kolkata
-- Date : 7th April 2022
+- Date : 7th April 2023
 - Venue : [Virtual Event](https://meet.google.com/apf-pjws-vtj)
 - Event Details : [Hands-on ML with Google Cloud - a Gameathon](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-hands-on-ml-with-google-cloud-a-gameathon-free-tickets-to-gccd-kolkata-2023/)
 
 <br />
 <br />
 
-### 4th March 2022
+### 4th March 2023
 
 International Women's Day Celebration with WTM and GDG Cloud Kolkata
 
 - Onboarding Process for being a Co-organizer at GDG Cloud Kolkata begins
-- Date : 4th March 2022
+- Date : 4th March 2023
 - Venue : [IIEST Shibpur](https://goo.gl/maps/YT8vyUASZpD7q66y8)
 - Event Details : [Being Wo-men: IWD Celebration](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-being-wo-men-iwd-celebration/)
 
