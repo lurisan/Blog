@@ -1,16 +1,30 @@
 # Events of My Life
 
-## [Connect With Me](https://linktr.ee/lurisan)
+## [Connect With Me](https://bio.lurisan.in)
 
 <br />
 <br />
 
-### 7th May 2022
+
+### 9th July 2023
+
+The largest offline hackathon of Eastern India - Hack4Bengal 2.0 was held
+
+- Attended the largest offline hackathon in Eastern India as a Judge and a Mentor.
+- Date : 9th July 2023 - 10th July 2023 (30 Hours)
+- Venue : [SNU University](https://goo.gl/maps/s7b8vjLNWtPAPNx27)
+- Event Details : [Hack4Bengal 2.0](https://www.hack4bengal.tech/)
+
+<br />
+<br />
+
+
+### 7th May 2023
 
 Google Cloud Community Day Kolkata 2023
 
-- First big event - huge success
-- Date : 7th May 2022
+- First big event - a huge success
+- Date : 7th May 2023
 - Venue : [BBCC](https://goo.gl/maps/nheJJnRv94GPbsjR8)
 - Event Details : [GCCD Kolkata '23](https://gdgcloud.kolkata.dev/ccd2023)
 
@@ -44,7 +58,7 @@ International Women's Day Celebration with WTM and GDG Cloud Kolkata
 
 ### 25th December 2022
 
-Visited the Queen of Hillstations - Darjeeling
+Visited the Queen of Hill stations - Darjeeling
 
 <br />
 <br />
@@ -64,7 +78,7 @@ Chennai Visit
 - Date : full October
 - Zolo Stays - costly for a month of stay, ok if you are planning for a year or more.
 - Lots of places changed in Chennai, visited many outlets of Ibacco
-- Lived off of Bread omlett and Pizza for a long time
+- Lived off of Bread omelet and Pizza for a long time
 <br />
 <br />
 
@@ -101,19 +115,19 @@ Excited to speak for Google Cloud Community Day 2022
 - Date : 28th August 2022
 - Venue : [Taal Kutir Convention Centre](https://goo.gl/maps/bCKHEMoCpC4gajuJ9)
 - Co-Speaker : **Pratik Gupta** [Linkedin](https://www.linkedin.com/in/pratik-gupta-10597a152/) [Messenger](https://m.facebook.com/people/Pratik-Gupta/100004042342157/)
-- Github link and Slides link for the same soon will be available for individuals for reference and further reading.
+- Github link and Slides link will soon be available for individuals for reference and further reading.
 <br />
 <br />
 
 ### 20th April 2022
 
-LFR based swarm cooking up, new project in place for next development and building
+LFR-based swarm cooking up, a new project in place for the next development and building
 
-- 3 LFRs (line following robots) which have the ability to connect to each other for understanding the traversal and path solving.
+- 3 LFRs (line following robots) that have the ability to connect to each other for understanding the traversal and path solving.
 - ESP32 and ESP8266 based robots.
 - Custom track made for testing out the same.
 - Implementing Cluster computing and Mesh Networking protocols for the development of the same.
-- Github link for the same soon will be available for individuals to take up and enhance it more.
+- Github link for the same will soon be available for individuals to take up and enhance it more.
 <br />
 <br />
 
@@ -122,7 +136,7 @@ LFR based swarm cooking up, new project in place for next development and buildi
 GDG event was a great success, got an opportunity to intrigue the minds of young developers and future engineers
 
 - Introduction : Intro to GCP and setting up basics by [Jyoti Mishra](https://www.linkedin.com/in/jyotim29/)
-- Project Showcase : CNN and Transfer Learning based project [Randrita Sarkar](https://www.linkedin.com/in/randrita-sarkar-8690591a1/)
+- Project Showcase : CNN and Transfer Learning-based project [Randrita Sarkar](https://www.linkedin.com/in/randrita-sarkar-8690591a1/)
 - Intel : OpenAPI from Intel and its overview by [Abhishek Nandy](https://www.linkedin.com/in/abhishek-nandy/)
 - Robotics : Meshnet and Clusters by Me
 <br />
@@ -130,7 +144,7 @@ GDG event was a great success, got an opportunity to intrigue the minds of young
 
 ### 12th April 2022
 
-As GDG event is nearing the date, hope everyone has rsvp-ed for the event and got their tickets booked
+As the GDG event is nearing the date, I hope everyone has rsvp-ed for the event and got their tickets booked
 
 - As the date nears so does the excitement.
 - Getting more ideas for further projects to build upon.
@@ -146,7 +160,7 @@ As GDG event is nearing the date, hope everyone has rsvp-ed for the event and go
 
 Getting a chance to speak among eminent personalities
 
-- Preparing myself for the first time to come up as a speaker in an event
+- Preparing myself for the first time to come up as a speaker at an event
 - Topic: Cloud and Robotics
 - GDG meet 16th April 2022, 11:00 AM - 2:00 PM (IST)
 - I am speaking on "Clusters on a Mesh Network"
@@ -161,8 +175,8 @@ V3-beta of portfolio website launched
 
 - New intro screen
 - Better animation
-- More detailing in plan for newsletter and blogging
-- MAYBE backend deployment on cloud for further connect and blog notifications
+- More detailing in the plan for newsletter and blogging
+- MAYBE backend deployment on the cloud for further connect and blog notifications
 <br />
 <br />
 
@@ -182,7 +196,7 @@ Smart Bedroom automation in use, working perfectly as expected
 
 Peregrine App Launched
 
-- Full stack clone of twitter
+- Full stack clone of Twitter
 - Angular 13, Servlets, Microservices, Azure, Docker, Kafka, Mongo DB, Jasmine, JUnit
 - Co-creater [Sohrab Azam](https://www.linkedin.com/in/sohrab-azam-816b7abb/)
 <br />
@@ -190,7 +204,7 @@ Peregrine App Launched
 
 ### 24th October 2021
 
-Smart Bedroom automation with actual use case and used in the room
+Smart Bedroom automation with an actual use case and used in the room
 
 - Automated room device management
 - Integration with Google Assistant and Alexa
@@ -212,22 +226,22 @@ V2 of portfolio website launched
 
 ### 2nd May 2021
 
-Simple Producer Consumer based off Kafka using Docker and Springboot
+Simple Producer Consumer-based off Kafka using Docker and Springboot
 
 - Upcoming more useful exposed APIs
-- Data pull from csv or SQL DB for data warehousing
+- Data pull from CSV or SQL DB for data warehousing
 - UI for consumption of APIs
 - Implementation of security
-- Use of Airflow, Mongo and Spark in planning
+- Use of Airflow, Mongo, and Spark in planning
 - Implementation of ETL flow
 - Deployment for general user complete application
-- Open for colab
+- Open for collab
 <br />
 <br />
 
 ### 29th January 2021
 
-Deployed a simple photo rich business website
+Deployed a simple photo-rich business website
 
 - Responsive Web Design
 - Gallery Effects
@@ -242,11 +256,11 @@ Deployed a simple photo rich business website
 
 Deployed a simple web app to calculate my monthly totals, feel free to use
 
-- Strict format required or else error is thrown without any highlight
-- One month calculation at a time
-- User Profile and Online data maintanance facility in pipeline
+- Strict format required or else an error is thrown without any highlight
+- One-month calculation at a time
+- User Profile and Online data maintenance facility in the pipeline
 - Alternative type web-app **MAYBE** made in Django too
-- Mightbe integrated to Expense App (Not yet deployed)
+- Might be integrated into Expense App (Not yet deployed)
 - [**Check it out**](https://angcalc.web.app)
 <br />
 <br />
@@ -255,7 +269,7 @@ Deployed a simple web app to calculate my monthly totals, feel free to use
 
 Getting hands dirty on React and Hadoop
 
-- React based simple projects
+- React-based simple projects
 - Hadoop
 - Hive
 - Cassandra
@@ -266,13 +280,13 @@ Getting hands dirty on React and Hadoop
 
 ### 20th June 2020
 
-Live Streaming "Robotics & AI : An Interdisciplinary Tale"
+Live Streaming "Robotics & AI: An Interdisciplinary Tale"
 
 - Alumni Tech Talk
 - Robonix
 - NSEC
 - Streaming now on youtube: [Robonix NSEC](https://www.youtube.com/watch?v=Pj8ugDiyyRo)
-- Like, Share, Subscribe to our channel
+- Like, Share, and Subscribe to our channel
 <br />
 <br />
 
@@ -284,7 +298,7 @@ Talk on 20th June "Robotics & AI : An Interdisciplinary Tale"
 - Robonix
 - NSEC
 - Exclusive streaming on youtube: [Robonix NSEC](https://www.youtube.com/watch?v=Pj8ugDiyyRo)
-- Like, Share, Subscribe to our channel
+- Like, Share, and Subscribe to our channel
 <br />
 <br />
 
@@ -293,7 +307,7 @@ Talk on 20th June "Robotics & AI : An Interdisciplinary Tale"
 Something should be in the background
 
 - Background animation
-- Bounce, Orb Ball, Spinner and Glow animations
+- Bounce, Orb Ball, Spinner, and Glow animations
 - Different Orb Ball for mobile and desktop
 <br />
 <br />
@@ -327,7 +341,7 @@ Shouldn't it be deployed somewhere?
 
 ### 27th April 2020
 
-Great Day for building next elements
+Great Day for building the next elements
 
 - Bootstrapped
 - Footer work started
