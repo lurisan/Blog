@@ -3,9 +3,6 @@
 ## [Connect With Me](https://bio.lurisan.in)
 ## [Mail Me](mailto:contact@lurisan.in)
 
-<br />
-<br />
-
 ### 5th August 2023
 
 The first professionals-only event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/) in collaboration with [Grafana](https://grafana.com)
