@@ -1,7 +1,6 @@
 # Events of My Life
 
 ## [Connect With Me](https://bio.lurisan.in)
-## [Mail Me](mailto:contact@lurisan.in)
 
 ### 5th August 2023
 
