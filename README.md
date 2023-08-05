@@ -1,6 +1,7 @@
 # Events of My Life
 
 ## [Connect With Me](https://bio.lurisan.in)
+## [Mail Me](mailto:contact@lurisan.in)
 
 <br />
 <br />
@@ -13,6 +14,17 @@ The first professionals-only event by [GDG Cloud Kolkata](https://gdg.community.
 - Date : 5th August 2023
 - Venue : [Indian School of Ethical Hacking Kolkata](https://goo.gl/maps/ozXN9rxLUJ87cHq4A)
 - Event Details : [Kolkata Happy Hour - GDG Cloud Kolkata X Grafana](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-gdg-cloud-kolkata-x-grafana-happy-hour/)
+
+<br />
+<br />
+
+
+### 1st August 2023
+
+Promoted to the role of IT Analyst in Tata Consultancy Services
+
+- 2nd promotion at work, now working as a Platform Engineer for Cloud Migration.
+- Date : 1st August 2023
 
 <br />
 <br />
