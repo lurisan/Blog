@@ -5,6 +5,18 @@
 <br />
 <br />
 
+### 5th August 2023
+
+The first professionals-only event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/) in collaboration with [Grafana](https://grafana.com)
+
+- Hosted the first professionals-only event by GDG Cloud Kolkata.
+- Date : 5th August 2023
+- Venue : [Indian School of Ethical Hacking Kolkata](https://goo.gl/maps/ozXN9rxLUJ87cHq4A)
+- Event Details : [Kolkata Happy Hour - GDG Cloud Kolkata X Grafana](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-gdg-cloud-kolkata-x-grafana-happy-hour/)
+
+<br />
+<br />
+
 
 ### 9th July 2023
 
