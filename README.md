@@ -2,6 +2,33 @@
 
 ## [Connect With Me](https://bio.lurisan.in)
 
+### 27th August 2023
+
+Keras Community Day Kolkata 2023 event by [TFUG Kolkata](https://twitter.com/tfugkol) Co-Hosted by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
+
+- Keras Community Day Kolkata 2023 - First ever Machine Learning centric event in Kolkata by [TFUG Kolkata](https://twitter.com/tfugkol)
+- Tickets : [Buy Now](https://www.townscript.com/e/keras-community-day-kolkata-2023)
+- Date : 27th August 2023
+- Venue : [Techno International New Town](https://goo.gl/maps/obxDNaki7KQPuC1v8)
+- Event Details : [Keras Community Day Kolkata 2023](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-keras-community-day-kolkata-2023/cohost-gdg-cloud-kolkata)
+
+<br />
+<br />
+
+
+### 19th August 2023
+
+Google I/O Extended event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
+
+- Google I/O Extended - Extended version of [Google I/O](https://io.google/2023/).
+- Date : 19th August 2023
+- Venue : [Techno India University](https://goo.gl/maps/dR9eZPiZE5taaUmL8)
+- Event Details : [Google I/O Extended](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-google-io-extended-2023-by-gdg-cloud-kolkata/)
+
+<br />
+<br />
+
+
 ### 5th August 2023
 
 The first professionals-only event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/) in collaboration with [Grafana](https://grafana.com)
