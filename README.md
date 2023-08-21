@@ -4,7 +4,7 @@
 
 ### 27th August 2023
 
-Keras Community Day Kolkata 2023 event by [TFUG Kolkata](https://twitter.com/tfugkol) Co-Hosted by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
+Keras Community Day Kolkata 2023 event by [TFUG Kolkata](https://tfug.kolkata.dev/) Co-Hosted by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
 
 - Keras Community Day Kolkata 2023 - First ever Machine Learning centric event in Kolkata by [TFUG Kolkata](https://twitter.com/tfugkol)
 - Tickets : [Buy Now](https://www.townscript.com/e/keras-community-day-kolkata-2023)
