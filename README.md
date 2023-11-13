@@ -16,6 +16,20 @@ Webolution - Revolutionizing Web Development event by [GFG Student Chapter SNU](
 <br />
 
 
+### 5th November 2023
+
+Devfest - GDG Durgapur event by [GDG Durgapur](https://gdg.community.dev/gdg-durgapur/)
+
+- Devfest - GDG Durgapur. Attended as a Community Partner from [GDG Cloud Kolata](https://gdg.community.dev/gdg-cloud-kolkata/)
+- Tickets : [Buy Now](https://gdgdurgapur.tech/)
+- Date : 5th November 2023
+- Venue : [NSHM Durgapur](https://maps.app.goo.gl/BKMjpwFibFbC5m3U7)
+- Event Details : [Devfest - GDG Durgapur](https://gdgdurgapur.tech/)
+
+<br />
+<br />
+
+
 ### 23rd September 2023
 
 Generative AI with Google Cloud event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
