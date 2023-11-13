@@ -2,6 +2,34 @@
 
 ## [Connect With Me](https://bio.lurisan.in)
 
+### 11th November 2023
+
+Webolution - Revolutionizing Web Development event by [GFG Student Chapter SNU](https://www.linkedin.com/company/geeksforgeeks-snu-chapter/)
+
+- Webolution - Revolutionizing Web Development. As a speaker, I share my insights and learnings on Web Development, its scope, and its future.
+- Tickets : [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfXuGt_-L3Dm3e3qkXKVcwswl9ZRJaeRrgNXqElc0pimWV2jg/closedform)
+- Date : 11th November 2023
+- Venue : [Online](https://bit.ly/Webolution_GFG_SNU)
+- Event Details : [Webolution - Revolutionizing Web Development](https://www.linkedin.com/feed/update/urn:li:activity:7128366979874242560/)
+
+<br />
+<br />
+
+
+### 23rd September 2023
+
+Generative AI with Google Cloud event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
+
+- Generative AI with Google Cloud - First ever GenAI-centric event in GDG Cloud Kolkata.
+- Tickets : [Apply Now](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-september-meetup-generative-ai-with-google-cloud/)
+- Date : 23rd September 2023
+- Venue : [Academy of Technology](https://maps.app.goo.gl/noNZFBtFNAvU8Qv37)
+- Event Details : [Generative AI with Google Cloud](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-september-meetup-generative-ai-with-google-cloud/)
+
+<br />
+<br />
+
+
 ### 27th August 2023
 
 Keras Community Day Kolkata 2023 event by [TFUG Kolkata](https://tfug.kolkata.dev/) Co-Hosted by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
