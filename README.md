@@ -6,7 +6,7 @@
 Year End Meet: Celebrating Tech! event by [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
 
 - Celebrating Technology advances which was made throughout the day.
-- Tickets : [Registration Form](https://www.commudle.com/communities/gdg-cloud-kolkata)
+- Tickets : [Registration Form](https://www.commudle.com/communities/gdg-cloud-kolkata/events/year-end-meet-celebrating-tech)
 - Date : 10th December 2023
 - Venue : [Indian School of Ethical Hacking](https://maps.app.goo.gl/2RFSGTCmTUcbcd4e8)
 - Event Details : [Year End Meet: Celebrating Tech!](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-year-end-meet-celebrating-tech/)
