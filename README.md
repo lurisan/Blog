@@ -1,11 +1,77 @@
 # Events of My Life
 
 ## [Connect With Me](https://bio.lurisan.in)
+
+### 28th February 2024
+
+ Amiphoria '2024 event by Amity University
+
+- Sponsored IT & Tech Club of Amity University for Amiphoria '2024 in Track Quest - Line Follower Competition​
+- Date : 28th February 2024
+- Venue : [Amity University Kolkata](https://maps.app.goo.gl/MkPfJEwpc3tVFcqb8)
+
+<br />
+<br />
+
+
+### 26th February 2024
+
+ Amiphoria '2024 event by Amity University
+
+- Took a session on Building a Modern Portfolio using Angular & Firebase​
+- Session Deck : [Presentation](https://docs.google.com/presentation/d/1Y_BIKfMF83Zxf1M7HPCPpNN4-ZpfQhaSphVU7Zbh8dk/edit?usp=sharing) 
+- Date : 26th February 2024
+- Venue : [Amity University Kolkata](https://maps.app.goo.gl/MkPfJEwpc3tVFcqb8)
+
+<br />
+<br />
+
+### 1st February 2024 - 4th February 2024
+
+ The most awaited India Community Summit 2024 by Google
+
+- Delegate to the ICS '24 at Udaipur
+- Date : 1st February 2024 - 4th February 2024
+- Venue : [Aurika, Udaipur – Luxury by Lemon Tree Hotels](https://maps.app.goo.gl/EtCGw7eoEPrankR89)
+
+<br />
+<br />
+
+
+### 20th January 2024
+
+Microsoft Ambassadors Aurora #Kolkata: AI, Insights, and Inspiring Connections event by Microsoft
+
+- Took a session on Microsoft and Generative AI​ - Generative AI and its offerings by Microsoft​
+- Session Deck : [Presentation](https://1drv.ms/p/s!AhU508eMCf4kgukniUVEGcFGO8k4Mg?e=4fy762) 
+- Date : 20th January 2024
+- Venue : [Techno Internation Newtown](https://maps.app.goo.gl/T4c4eHKN7bUfP5hg9)
+- Event Details : [Microsoft Ambassadors Aurora #Kolkata](https://www.microsoft-aurora.tech/#speakers)
+
+<br />
+<br />
+
+
+### 20th January 2024
+
+January Meet: Winter Workshop with GCP event by [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
+
+- Fun and interactive workshop on Google Cloud Platform.
+- Tickets : [Registration Form]((https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/))
+- Date : 20th January 2024
+- Venue : [Online](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/)
+- Event Details : [January Meet: Winter Workshop with GCP](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/)
+
+<br />
+<br />
+
+
 ### 10th December 2023
 
 Year End Meet: Celebrating Tech! event by [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
 
-- Celebrating Technology advances which was made throughout the day.
+- Celebrating Technology advances which was made throughout the year.
+- Photos : [Photos](https://photos.app.goo.gl/jSEJqV5JUXNu1Jtg8)
 - Tickets : [Registration Form](https://www.commudle.com/communities/gdg-cloud-kolkata/events/year-end-meet-celebrating-tech)
 - Date : 10th December 2023
 - Venue : [Indian School of Ethical Hacking](https://maps.app.goo.gl/2RFSGTCmTUcbcd4e8)
@@ -48,6 +114,8 @@ Devfest - GDG Durgapur event by [GDG Durgapur](https://gdg.community.dev/gdg-dur
 Generative AI with Google Cloud event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
 
 - Generative AI with Google Cloud - First ever GenAI-centric event in GDG Cloud Kolkata.
+- Session Deck - [Presentation](https://docs.google.com/presentation/d/1zegyYpnDxTGzqeGifOd7uKd6trHoqemuFfTFkcNjqyU/edit?usp=sharing)
+- Photos - [Photos](https://photos.app.goo.gl/ZAuKwAwDFrJogyM27)
 - Tickets : [Apply Now](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-september-meetup-generative-ai-with-google-cloud/)
 - Date : 23rd September 2023
 - Venue : [Academy of Technology](https://maps.app.goo.gl/noNZFBtFNAvU8Qv37)
@@ -75,7 +143,8 @@ Keras Community Day Kolkata 2023 event by [TFUG Kolkata](https://tfug.kolkata.de
 
 Google I/O Extended event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/)
 
-- Google I/O Extended - Extended version of [Google I/O](https://io.google/2023/).
+- Google I/O Extended - Extended version of [Google I/O](https://io.google/2023/)
+- Photos : [Photos](https://photos.app.goo.gl/7VVryVccAQKRTEPi7)
 - Date : 19th August 2023
 - Venue : [Techno India University](https://goo.gl/maps/dR9eZPiZE5taaUmL8)
 - Event Details : [Google I/O Extended](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-google-io-extended-2023-by-gdg-cloud-kolkata/)
@@ -89,6 +158,7 @@ Google I/O Extended event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-c
 The first professionals-only event by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/) in collaboration with [Grafana](https://grafana.com)
 
 - Hosted the first professionals-only event by GDG Cloud Kolkata.
+- Photos : [Photos](https://photos.app.goo.gl/ximF8Sbe84tu9U8C8)
 - Date : 5th August 2023
 - Venue : [Indian School of Ethical Hacking Kolkata](https://goo.gl/maps/ozXN9rxLUJ87cHq4A)
 - Event Details : [Kolkata Happy Hour - GDG Cloud Kolkata X Grafana](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-gdg-cloud-kolkata-x-grafana-happy-hour/)
@@ -126,6 +196,7 @@ The largest offline hackathon of Eastern India - Hack4Bengal 2.0 was held
 Google Cloud Community Day Kolkata 2023
 
 - First big event - a huge success
+- Photos : [Official Album](https://photos.app.goo.gl/rThJbbA8fjTrF7xm9) [Attendees Album](https://photos.app.goo.gl/BBGdf7J8RLJDCAJV8)
 - Date : 7th May 2023
 - Venue : [BBCC](https://goo.gl/maps/nheJJnRv94GPbsjR8)
 - Event Details : [GCCD Kolkata '23](https://gdgcloud.kolkata.dev/ccd2023)
