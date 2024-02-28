@@ -70,12 +70,27 @@ January Meet: Winter Workshop with GCP event by [GDG Cloud Kolkata](https://gdgc
 
 Year End Meet: Celebrating Tech! event by [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
 
-- Celebrating Technology advances which was made throughout the year.
+- Celebrating Technological advances that were made throughout the year.
 - Photos : [Photos](https://photos.app.goo.gl/jSEJqV5JUXNu1Jtg8)
 - Tickets : [Registration Form](https://www.commudle.com/communities/gdg-cloud-kolkata/events/year-end-meet-celebrating-tech)
 - Date : 10th December 2023
 - Venue : [Indian School of Ethical Hacking](https://maps.app.goo.gl/2RFSGTCmTUcbcd4e8)
 - Event Details : [Year End Meet: Celebrating Tech!](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-year-end-meet-celebrating-tech/)
+
+<br />
+<br />
+
+
+### 20th November 2023
+
+Microsoft and GitHub event by Microsoft Ambassadors
+
+- GDG Cloud Kolkata partnered with Microsoft Ambassadors to host the event.
+- Gave a session on Fundamentals of GenAI.
+- Session Deck : [Fundamentals of GenAI](https://docs.google.com/presentation/d/1zegyYpnDxTGzqeGifOd7uKd6trHoqemuFfTFkcNjqyU/edit?usp=sharing)
+- Photos : [Photos](https://photos.app.goo.gl/1WoDtdZTxPemmzyT6)
+- Date : 20th November 2023
+- Venue : [Amity University](https://maps.app.goo.gl/MkPfJEwpc3tVFcqb8)
 
 <br />
 <br />
