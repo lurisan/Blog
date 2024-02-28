@@ -6,7 +6,7 @@
 
  Amiphoria '2024 event by Amity University
 
-- Sponsored IT & Tech Club of Amity University for Amiphoria '2024 in Track Quest - Line Follower Competition​
+- [HyperDrive](https://t.me/hyperdrivehd) Sponsored IT & Tech Club of Amity University for Amiphoria '2024 in Track Quest - Line Follower Competition​
 - Date : 28th February 2024
 - Venue : [Amity University Kolkata](https://maps.app.goo.gl/MkPfJEwpc3tVFcqb8)
 
