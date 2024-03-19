@@ -18,17 +18,17 @@
 <details>
 <summary>Febuary 2024</summary>
 
-- [28th February '24](#-28th-February-2024)
-- [26th February '24](#-26th-February-2024)
-- [1st February 2024 - 4th February '24](#-1st-February-2024---4th-February-2024)
+- [28th February '24](#28th-February-2024)
+- [26th February '24](#26th-February-2024)
+- [1st February 2024 - 4th February '24](#1st-February-2024---4th-February-2024)
 
 </details>
 
 <details>
 <summary>January 2024</summary>
 
-- [20th January '24](#-20th-January-2024)
-- [20th January '24](#-20th-January-2024)
+- [20th January '24](#20th-January-2024)
+- [20th January '24](#20th-January-2024)
 
 </details>
 </details>
@@ -39,31 +39,31 @@
 <details>
 <summary>November - December 2023</summary>
 
-- [10th December '23](#-10th-December-2023)
-- [20th November '23](#-20th-November-2023)
-- [11th November '23](#-11th-November-2023)
-- [5th November '23](#-5th-November-2023)
+- [10th December '23](#10th-December-2023)
+- [20th November '23](#20th-November-2023)
+- [11th November '23](#11th-November-2023)
+- [5th November '23](#5th-November-2023)
 
 </details>
 
 <details>
 <summary>August - September 2023</summary>
 
-- [23rd September '23](#-23rd-September-2023)
-- [27th August '23](#-27th-August-2023)
-- [19th August '23](#-19th-August-2023)
-- [5th August '23](#-5th-August-2023)
-- [1st August '23](#-1st-August-2023)
+- [23rd September '23](#23rd-September-2023)
+- [27th August '23](#27th-August-2023)
+- [19th August '23](#19th-August-2023)
+- [5th August '23](#5th-August-2023)
+- [1st August '23](#1st-August-2023)
 
 </details>
 
 <details>
 <summary>January - July 2023</summary>
 
-- [9th July '23](#-9th-July-2023)
-- [7th May '23](#-7th-May-2023)
-- [7th April '23](#-7th-April-2023)
-- [4th March '23](#-4th-March-2023)
+- [9th July '23](#9th-July-2023)
+- [7th May '23](#7th-May-2023)
+- [7th April '23](#7th-April-2023)
+- [4th March '23](#4th-March-2023)
 
 </details>
 </details>
@@ -74,25 +74,25 @@
 <details>
 <summary>August - December 2022</summary>
 
-- [25th December '22](#-25th-December-2022)
-- [15th November '22](#-15th-November-2022)
-- [October '22](#-October-2022)
-- [28th August '22](#-28th-August-2022)
-- [27th August '22](#-27th-August-2022)
-- [18th August '22](#-18th-August-2022)
+- [25th December '22](#25th-December-2022)
+- [15th November '22](#15th-November-2022)
+- [October '22](#October-2022)
+- [28th August '22](#28th-August-2022)
+- [27th August '22](#27th-August-2022)
+- [18th August '22](#18th-August-2022)
 
 </details>
 
 <details>
 <summary>January - April 2022</summary>
 
-- [20th April '22](#-20th-April-2022)
-- [17th April '22](#-17th-April-2022)
-- [12th April '22](#-12th-April-2022)
-- [5th April '22](#-5th-April-2022)
-- [22nd March '22](#-22nd-March-2022)
-- [7th March '22](#-7th-March-2022)
-- [31st January '22](#-31st-January-2022)
+- [20th April '22](#20th-April-2022)
+- [17th April '22](#17th-April-2022)
+- [12th April '22](#12th-April-2022)
+- [5th April '22](#5th-April-2022)
+- [22nd March '22](#22nd-March-2022)
+- [7th March '22](#7th-March-2022)
+- [31st January '22](#31st-January-2022)
 
 </details>
 </details>
@@ -103,10 +103,10 @@
 <details>
 <summary>January - December 2021</summary>
 
-- [24th October '21](#-24th-October-2021)
-- [17th October '21](#-17th-October-2021)
-- [2nd May '21](#-2nd-May-2021)
-- [29th January '21](#-29th-January-2021)
+- [24th October '21](#24th-October-2021)
+- [17th October '21](#17th-October-2021)
+- [2nd May '21](#2nd-May-2021)
+- [29th January '21](#29th-January-2021)
 
 </details>
 </details>
@@ -117,17 +117,17 @@
 <details>
 <summary>January - December 2020</summary>
 
-- [10th December '20](#-10th-December-2020)
-- [3rd November '20](#-3rd-November-2020)
-- [20th June '20](#-20th-June-2020)
-- [19th June '20](#-19th-June-2020)
-- [15th May '20](#-15th-May-2020)
-- [14th May '20](#-14th-May-2020)
-- [10th May '20](#-10th-May-2020)
-- [9th May '20](#-9th-May-2020)
-- [27th April '20](#-27th-April-2020)
-- [25th April '20](#-25th-April-2020)
-- [10th April '20](#-10th-April-2020)
+- [10th December '20](#10th-December-2020)
+- [3rd November '20](#3rd-November-2020)
+- [20th June '20](#20th-June-2020)
+- [19th June '20](#19th-June-2020)
+- [15th May '20](#15th-May-2020)
+- [14th May '20](#14th-May-2020)
+- [10th May '20](#10th-May-2020)
+- [9th May '20](#9th-May-2020)
+- [27th April '20](#27th-April-2020)
+- [25th April '20](#25th-April-2020)
+- [10th April '20](#10th-April-2020)
 
 </details>
 </details>
