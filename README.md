@@ -2,9 +2,35 @@
 
 ## [Connect With Me](https://bio.lurisan.in)
 
+### 17th March 2024
+
+Gen AI Labs: Duet AI - Kolkata, an interactive workshop where you'll experiment with Duet AI and learn how it can transform your work.
+
+- Tickets : [Gen AI Labs: Duet AI - Kolkata](https://inthecloud.withgoogle.com/gen-ai-labs-duet-ai-india-2024/register.html#form)
+- Date : 17th March 2024
+- Venue : [Kolkata Centre for Creativity](https://maps.app.goo.gl/s6R1BhKWLrWasnDH9)
+- Event Details : [Gen AI Labs: Duet AI - Kolkata](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-gen-ai-labs-duet-ai-kolkata/)
+
+<br />
+<br />
+
+
+### 16th March 2024
+
+International Women's Day Celebration with [Women Techmakers](https://developers.google.com/womentechmakers) and [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
+
+- Tickets : [International Women's Day 2024 - Impact the Future](https://www.commudle.com/communities/gdg-cloud-kolkata/events/international-women-s-day-2024-impact-the-future)
+- Date : 16th March 2024
+- Venue : [Meghnad Saha Institute Of Technology](https://maps.app.goo.gl/bkG6nHNoiGp1PPFs6)
+- Event Details : [International Women's Day 2024 - Impact the Future](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-international-womens-day-2024-impact-the-future/)
+
+<br />
+<br />
+
+
 ### 28th February 2024
 
- Amiphoria '2024 event by Amity University
+Amiphoria '2024 event by Amity University
 
 - [HyperDrive](https://t.me/hyperdrivehd) Sponsored IT & Tech Club of Amity University for Amiphoria '2024 in Track Quest - Line Follower Competition​
 - Date : 28th February 2024
@@ -16,7 +42,7 @@
 
 ### 26th February 2024
 
- Amiphoria '2024 event by Amity University
+Amiphoria '2024 event by Amity University
 
 - Took a session on Building a Modern Portfolio using Angular & Firebase​
 - Session Deck : [Presentation](https://docs.google.com/presentation/d/1Y_BIKfMF83Zxf1M7HPCPpNN4-ZpfQhaSphVU7Zbh8dk/edit?usp=sharing) 
@@ -28,7 +54,7 @@
 
 ### 1st February 2024 - 4th February 2024
 
- The most awaited India Community Summit 2024 by Google
+The most awaited India Community Summit 2024 by Google
 
 - Delegate to the ICS '24 at Udaipur
 - Date : 1st February 2024 - 4th February 2024
@@ -57,7 +83,7 @@ Microsoft Ambassadors Aurora #Kolkata: AI, Insights, and Inspiring Connections e
 January Meet: Winter Workshop with GCP event by [GDG Cloud Kolkata](https://gdgcloudkol.linkb.org)
 
 - Fun and interactive workshop on Google Cloud Platform.
-- Tickets : [Registration Form]((https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/))
+- Tickets : [Registration Form](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/)
 - Date : 20th January 2024
 - Venue : [Online](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/)
 - Event Details : [January Meet: Winter Workshop with GCP](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-january-meet-winter-workshop-with-gcp/)
