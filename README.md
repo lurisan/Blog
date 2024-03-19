@@ -10,10 +10,10 @@
 > <details>
 > <summary>March 2024</summary>
 > <br>
->
-> - [17th March '24](#17th-march-2024)
-> - [16th March '24](#16th-march-2024)
->
+
+- [17th March '24](#17th-march-2024)
+- [16th March '24](#16th-march-2024)
+
 > </details>
 >
 > <details>
