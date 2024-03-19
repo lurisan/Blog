@@ -7,25 +7,29 @@
 <details>
 <summary>2024</summary>
 
-<details>
-<summary>March 2024</summary>
+| <details>
+| <summary>March 2024</summary>
+| <br>
 
-- [17th March '24](#17th-march-2024)
-- [16th March '24](#16th-march-2024)
+| | - [17th March '24](#17th-march-2024)
+| | - [16th March '24](#16th-march-2024)
 
-</details>
+| </details>
 
-<details>
-<summary>Febuary 2024</summary>
 
-- [28th February '24](#28th-february-2024)
-- [26th February '24](#26th-february-2024)
-- [1st February 2024 - 4th February '24](#1st-february-2024---4th-february-2024)
+| <details>
+| <summary>Febuary 2024</summary>
+| <br>
 
-</details>
+| | - [28th February '24](#28th-february-2024)
+| | - [26th February '24](#26th-february-2024)
+| | - [1st February 2024 - 4th February '24](#1st-february-2024---4th-february-2024)
+
+| </details>
 
 <details>
 <summary>January 2024</summary>
+<br>
 
 - [20th January '24](#20th-january-2024)
 - [20th January '24](#20th-january-2024)
@@ -38,6 +42,7 @@
 
 <details>
 <summary>November - December 2023</summary>
+<br>
 
 - [10th December '23](#10th-december-2023)
 - [20th November '23](#20th-november-2023)
@@ -48,6 +53,7 @@
 
 <details>
 <summary>August - September 2023</summary>
+<br>
 
 - [23rd September '23](#23rd-september-2023)
 - [27th August '23](#27th-august-2023)
@@ -59,6 +65,7 @@
 
 <details>
 <summary>January - July 2023</summary>
+<br>
 
 - [9th July '23](#9th-july-2023)
 - [7th May '23](#7th-may-2023)
@@ -73,6 +80,7 @@
 
 <details>
 <summary>August - December 2022</summary>
+<br>
 
 - [25th December '22](#25th-december-2022)
 - [15th November '22](#15th-november-2022)
@@ -85,6 +93,7 @@
 
 <details>
 <summary>January - April 2022</summary>
+<br>
 
 - [20th April '22](#20th-april-2022)
 - [17th April '22](#17th-april-2022)
@@ -102,6 +111,7 @@
 
 <details>
 <summary>January - December 2021</summary>
+<br>
 
 - [24th October '21](#24th-october-2021)
 - [17th October '21](#17th-october-2021)
@@ -116,6 +126,7 @@
 
 <details>
 <summary>January - December 2020</summary>
+<br>
 
 - [10th December '20](#10th-december-2020)
 - [3rd November '20](#3rd-november-2020)
