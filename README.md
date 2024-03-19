@@ -2,7 +2,7 @@
 
 ## [Connect With Me](https://bio.lurisan.in)
 
-### Jump to Date
+<!-- ### Jump to Date
 
 <details><summary>2024</summary>
 <details><summary>March 2024</summary>
@@ -133,7 +133,7 @@
 - [10th April '20](#10th-april-2020)
 
 </details>
-</details>
+</details> -->
 
 ### 17th March 2024
 
